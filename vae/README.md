@@ -14,6 +14,11 @@ This folder contains a Jupyter notebook for practicing the **VAE (Variational Au
 - **Reparameterization Trick** principle
 - Image generation results
 
+## 🧠 Challenge Tasks
+
+Looking to push your understanding further?  
+Check out the [Challenge Tasks](challenges.md) for tiered exercises ranging from undergraduate to research-level explorations.
+
 ## 🛠️ Environment
 
 - Python 3.x
