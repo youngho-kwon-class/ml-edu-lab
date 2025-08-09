@@ -1,35 +1,32 @@
-# 🧠 VAE Challenge Tasks
+# 🧠 AAE Challenge Tasks
 
-Explore and extend your understanding of Variational Autoencoders through these tiered challenges.
+Dive deeper into Adversarial Autoencoders with these structured challenges.
 
 ---
 
 ## 🎓 Beginner (Undergraduate Level)
 
-- ✅ Implement a basic VAE using fully connected layers on MNIST.
-- 🔍 Visualize input reconstructions and compare them to original images.
-- 📊 Plot the loss components: reconstruction loss vs KL divergence.
-- 🧠 Explain the role of the KL divergence term in the VAE objective.
+- ✅ Implement a basic AAE on MNIST using fully connected layers.
+- 🔍 Visualize the latent space using PCA or t-SNE.
+- 📊 Compare reconstruction quality with a vanilla autoencoder.
 
 ---
 
 ## 🧪 Intermediate (Graduate Level)
 
-- 🧠 Replace fully connected layers with convolutional layers (Conv-VAE).
-- 🔄 Experiment with different latent space dimensions and observe their effect.
-- 🧪 Train the VAE on a different dataset (e.g., Fashion-MNIST or CIFAR-10).
-- 📊 Visualize the latent space using t-SNE or PCA.
-- 🧠 Implement β-VAE and analyze how varying β affects disentanglement.
+- 🧠 Replace the encoder/decoder with convolutional layers.
+- 🔄 Experiment with different prior distributions (e.g., Gaussian, Uniform).
+- 🧪 Modify the adversarial loss function and observe its effect.
+- 📊 Track discriminator accuracy during training and interpret its behavior.
 
 ---
 
 ## 🚀 Advanced (Research Level)
 
-- 🧬 Implement Conditional VAE (CVAE) using class labels.
-- 🧠 Explore disentangled representations: Try FactorVAE or DIP-VAE.
-- 📚 Reproduce results from a recent VAE-related paper.
-- 🔍 Compare VAE with GAN and AAE in terms of sample quality and latent space structure.
-- 🧪 Apply VAE to non-image domains (e.g., text, tabular data, or time-series).
-- 🧠 Investigate posterior collapse and propose mitigation strategies.
+- 🧬 Implement Conditional AAE using label information.
+- 🧠 Explore semi-supervised learning with AAE.
+- 📚 Reproduce results from the original AAE paper or related research.
+- 🔍 Compare AAE with VAE and GAN in terms of latent space structure and sample quality.
+- 🧪 Apply AAE to anomaly detection or domain adaptation tasks.
 
-> 💡 Tip: Document your experiments and share insights with peers or instructors.
+> 💡 Tip: Try combining AAE with other techniques like attention or contrastive learning.
