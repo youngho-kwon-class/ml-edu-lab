@@ -6,17 +6,18 @@ Dive deeper into Adversarial Autoencoders with these structured challenges.
 
 ## 🎓 Beginner (Undergraduate Level)
 
-- ✅ Implement a basic AAE on MNIST using fully connected layers.
-- 🔍 Visualize the latent space using PCA or t-SNE.
-- 📊 Compare reconstruction quality with a vanilla autoencoder.
+- ✅ Review the architecture of AAE and explain the role of each component (encoder, decoder, discriminator).
+- 🔍 Modify the latent space dimension and observe its effect on reconstruction quality.
+- 📊 Compare AAE with a vanilla autoencoder in terms of loss and output samples.
+- 🧠 Describe the difference between adversarial loss and reconstruction loss.
 
 ---
 
 ## 🧪 Intermediate (Graduate Level)
 
-- 🧠 Replace the encoder/decoder with convolutional layers.
+- 🧠 Visualize the latent space using t-SNE (already implemented in the notebook).
 - 🔄 Experiment with different prior distributions (e.g., Gaussian, Uniform).
-- 🧪 Modify the adversarial loss function and observe its effect.
+- 🧪 Replace the encoder/decoder with convolutional layers.
 - 📊 Track discriminator accuracy during training and interpret its behavior.
 
 ---
@@ -28,5 +29,3 @@ Dive deeper into Adversarial Autoencoders with these structured challenges.
 - 📚 Reproduce results from the original AAE paper or related research.
 - 🔍 Compare AAE with VAE and GAN in terms of latent space structure and sample quality.
 - 🧪 Apply AAE to anomaly detection or domain adaptation tasks.
-
-> 💡 Tip: Try combining AAE with other techniques like attention or contrastive learning.
