@@ -11,8 +11,8 @@ Click the links below to launch each notebook in your own Colab environment.
 
 | Topic | Notebook | Colab Link |
 |-------|----------|------------|
-| VAE | `vae/vae_cnn_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/vae/vae_cnn_colab.ipynb) |
-| GAN | `gan/dcgan_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/gan/dcgan_colab.ipynb) |
+| VAE | `vae/vae_cnn_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/vae/vae-cnn-colab.ipynb) |
+| GAN | `gan/dcgan_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/gan/gan-cnn-colab.ipynb) |
 
 ## 📜 License
 
