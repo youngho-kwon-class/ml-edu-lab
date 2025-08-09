@@ -23,7 +23,8 @@ Available labs:
 - [VAE Lab](vae/README.md) – Variational Autoencoders
 - [GAN Lab](gan/README.md) – Generative Adversarial Networks
 - [AAE Lab](aae/README.md) – Adversarial Autoencoders
-- 
+
+  
 ## 🛠️ Environment
 
 - Python 3.x
