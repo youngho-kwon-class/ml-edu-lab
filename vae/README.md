@@ -4,7 +4,7 @@ This folder contains a Jupyter notebook for practicing the **VAE (Variational Au
 
 ## 📓 Open Notebook
 
-- [VAE CNN Notebook (Open in Colab)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/vae/vae-cnn-colab.ipynb)
+[![Open In Colab]((https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/vae/vae-cnn-colab.ipynb)
 
 ## 📌 Topics Covered
 
