@@ -19,3 +19,8 @@ This folder contains a Jupyter notebook for practicing the **AAE ( Adversarial A
 - Python 3.x
 - TensorFlow or PyTorch
 - Recommended: Google Colab
+
+## 🧠 Challenge Tasks
+
+Ready to go beyond the basics?  
+Check out the [Challenge Tasks](challenges.md) to deepen your understanding and explore creative extensions of this model.
