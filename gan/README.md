@@ -5,7 +5,7 @@ It focuses on building a CNN-based Generator and Discriminator to generate synth
 
 ## 📓 Open Notebook
 
-- [GAN CNN Notebook (Open in Colab)](https://colab.research.google.com/github/youngho-kwon-class/ml-deu-lab/blob/main/gan/gan-cnn-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/gan/gan-cnn-colab.ipynb)
 
 ## 📌 Topics Covered
 
@@ -19,3 +19,4 @@ It focuses on building a CNN-based Generator and Discriminator to generate synth
 - Python 3.x
 - TensorFlow or PyTorch
 - Recommended: Google Colab
+
