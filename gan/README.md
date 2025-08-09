@@ -14,6 +14,11 @@ It focuses on building a CNN-based Generator and Discriminator to generate synth
 - Training process visualization
 - Image generation results
 
+## 🧠 Challenge Tasks
+
+Looking to push your understanding further?  
+Check out the [Challenge Tasks](challenges.md) for tiered exercises ranging from undergraduate to research-level explorations.
+
 ## 🛠️ Environment
 
 - Python 3.x
