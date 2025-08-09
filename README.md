@@ -1,19 +1,26 @@
 # 🎓 Machine Learning Education Lab
 
-This repository contains practical and interactive materials for teaching machine learning concepts, including supervised learning, unsupervised learning, deep learning, and generative models.
+This repository contains hands-on Jupyter notebooks for learning and experimenting with machine learning models.  
+It focuses on generative models such as Variational Autoencoders (VAE) and Generative Adversarial Networks (GAN).
 
 ## How to Use
 
 All notebooks are designed to run on [Google Colab](https://colab.research.google.com).  
 Click the links below to launch each notebook in your own Colab environment.
 
-## 📚 Topics
+## 📂 Contents
 
-| Topic | Notebook | Colab Link |
-|-------|----------|------------|
-| VAE | `vae/vae_cnn_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/vae/vae-cnn-colab.ipynb) |
-| GAN | `gan/dcgan_colab.ipynb` | [Open in Colab](https://colab.research.google.com/github/youngho-edu/ml-edu-lab/blob/main/gan/gan-cnn-colab.ipynb) |
+- [VAE Lab](vae/README.md)
+- [GAN Lab](gan/README.md)
 
-## 📜 License
+## 🛠️ Environment
 
-This repository is licensed under the [MIT License](LICENSE).
+- Python 3.x
+- Google Colab or Jupyter Notebook
+- TensorFlow / PyTorch (depending on the notebook)
+
+## 🎯 Objectives
+
+- Understand the core concepts of generative models
+- Practice implementation through hands-on coding
+- Visualize model behavior and training dynamics
