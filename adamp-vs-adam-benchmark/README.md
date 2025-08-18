@@ -38,6 +38,11 @@ Launch the notebooks directly in Google Colab:
 - **FashionMNIST Benchmark**  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/adamp-vs-adam-benchmark/fashionmnist/fashionmnist_cnn_Adam_vs_AdamP.ipynb)
 
+---
+## 📈 Results & Insights
+
+For the smaller Fashion dataset, performance differences are minimal.  
+On the larger CIFAR-10 dataset, however, ADAMP shows a slight edge, indicating its advantage grows with dataset size.
 
 ---
 
