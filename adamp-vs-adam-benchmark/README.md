@@ -1,18 +1,52 @@
-AdamP vs Adam Optimizer Benchmark ✨
-This project was created to compare the performance of two widely-used optimization algorithms in deep learning: Adam and AdamP. It benchmarks training efficiency, convergence speed, and final accuracy using the FashionMNIST and CIFAR-10 datasets.
+# 🧠 AdamP vs Adam Optimizer Benchmark
 
-📂 Project Structure
+This project compares the performance of two popular deep learning optimizers—**Adam** and **AdamP**—across two benchmark datasets: **FashionMNIST** and **CIFAR-10**.  
+The goal is to evaluate:
 
-cifar10/: Contains the code to compare the performance of Adam and AdamP on the CIFAR-10 dataset.
+- ⚡ Training efficiency  
+- 📉 Convergence speed  
+- 🎯 Final accuracy  
 
-fashionmnist/: Contains the code to compare the performance of Adam and AdamP on the FashionMNIST dataset.
+---
 
-💡 Key Concepts
-Adam (Adaptive Moment Estimation): A highly efficient and widely-used optimization algorithm that combines the advantages of Momentum and RMSprop, dynamically adjusting the learning rate for each parameter during training.
+## 📁 Project Structure
 
-AdamP (Adam with Projection): A variant of Adam that introduces a "projection" concept to the weight update rule. It aims to improve convergence speed and the model's generalization performance.
+| Folder         | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| `cifar10/`      | Code and notebooks for benchmarking Adam vs AdamP on the CIFAR-10 dataset |
+| `fashionmnist/` | Code and notebooks for benchmarking Adam vs AdamP on the FashionMNIST dataset |
 
-🚀 How to Run the Code
+---
 
-Navigate to either the cifar10/ or fashionmnist/ folder.
-Execute the cells in order as instructed within the notebook.
+## 💡 Optimizer Concepts
+
+- **Adam (Adaptive Moment Estimation)**  
+  Combines Momentum and RMSprop. It adapts learning rates for each parameter using estimates of first and second moments of gradients. Known for fast convergence and robustness.
+
+- **AdamP (Adam with Projection)**  
+  Enhances Adam by introducing a projection step that helps avoid poor generalization caused by over-adaptive updates. Especially useful in vision tasks and models with large parameter spaces.
+
+---
+
+## 📓 Open Notebooks in Google Colab
+
+Launch the notebooks directly in Google Colab:
+
+- **CIFAR-10 Benchmark**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/cifar10/adam-benchmark-cifar10.ipynb)
+
+- **FashionMNIST Benchmark**  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/main/fashionmnist/adam-benchmark-fashionmnist.ipynb)
+
+
+---
+
+## 📊 Potential Extensions
+
+Want to take this further? Consider adding:
+
+- 📈 Visualizations of loss and accuracy curves for both optimizers  
+- 🧪 Tests on additional datasets like SVHN or TinyImageNet  
+- 🧠 Integration with different model architectures (e.g., ResNet, EfficientNet)
+
+---
