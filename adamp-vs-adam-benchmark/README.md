@@ -50,7 +50,6 @@ On the larger CIFAR-10 dataset, however, ADAMP shows a slight edge, indicating i
 
 Want to take this further? Consider adding:
 
-- 📈 Visualizations of loss and accuracy curves for both optimizers  
 - 🧪 Tests on additional datasets like SVHN or TinyImageNet  
 - 🧠 Integration with different model architectures (e.g., ResNet, EfficientNet)
 
