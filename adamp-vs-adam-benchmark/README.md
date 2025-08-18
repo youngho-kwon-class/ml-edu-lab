@@ -33,10 +33,10 @@ The goal is to evaluate:
 Launch the notebooks directly in Google Colab:
 
 - **CIFAR-10 Benchmark**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/adamp-vs-adam-benchmark/cifar10/adam-benchmark-cifar10.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/adamp-vs-adam-benchmark/cifar10/cifar10_cnn_adam_vs_adamp.ipynb)
 
 - **FashionMNIST Benchmark**  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/adamp-vs-adam-benchmark/fashionmnist/adam-benchmark-fashionmnist.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/adamp-vs-adam-benchmark/fashionmnist/fashionmnist_cnn_Adam_vs_AdamP.ipynb)
 
 
 ---
