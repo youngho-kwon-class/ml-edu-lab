@@ -23,6 +23,7 @@ Available labs:
 - [VAE Lab](vae/README.md) – Variational Autoencoders
 - [GAN Lab](gan/README.md) – Generative Adversarial Networks
 - [AAE Lab](aae/README.md) – Adversarial Autoencoders
+- [Adam vs. AdamP](adamp-vs-adam-benchmark/README.md)- Benchmark CIFAR10 vs. FASIONMNIST
 
   
 ## 🛠️ Environment
