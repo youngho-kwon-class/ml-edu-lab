@@ -2,12 +2,7 @@ AdamP vs Adam Optimizer Benchmark ✨
 This project was created to compare the performance of two widely-used optimization algorithms in deep learning: Adam and AdamP. It benchmarks training efficiency, convergence speed, and final accuracy using the FashionMNIST and CIFAR-10 datasets.
 
 📂 Project Structure
-.
-├── cifar10/
-│   └── cifar10_benchmark.ipynb
-├── fashionmnist/
-│   └── fashionmnist_benchmark.ipynb
-└── README.md
+
 cifar10/: Contains the code to compare the performance of Adam and AdamP on the CIFAR-10 dataset.
 
 fashionmnist/: Contains the code to compare the performance of Adam and AdamP on the FashionMNIST dataset.
@@ -21,6 +16,6 @@ AdamP (Adam with Projection): A variant of Adam that introduces a "projection" c
 
 Navigate to either the cifar10/ or fashionmnist/ folder.
 
-Open the .ipynb file in Google Colab.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/gan/gan-cnn-colab.ipynb)
 
 Execute the cells in order as instructed within the notebook.
