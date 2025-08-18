@@ -16,6 +16,6 @@ AdamP (Adam with Projection): A variant of Adam that introduces a "projection" c
 
 Navigate to either the cifar10/ or fashionmnist/ folder.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/gan/gan-cnn-colab.ipynb)
+[![Open In Colab](adamp-vs-adam-benchmark/fashionmnist/fashionmnist_cnn_Adam_vs_AdamP.ipynb)
 
 Execute the cells in order as instructed within the notebook.
