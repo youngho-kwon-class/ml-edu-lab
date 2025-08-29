@@ -24,6 +24,7 @@ Available labs:
 - [GAN Lab](gan/README.md) – Generative Adversarial Networks
 - [AAE Lab](aae/README.md) – Adversarial Autoencoders
 - [Adam vs. AdamP](adamp-vs-adam-benchmark/README.md)- Benchmark CIFAR10 vs. FASIONMNIST
+- [NMT Comparison](en2fr-transformer-comparison/README.md)-Comparison of Custom Transformer and Pretrained Model for EN→FR Translation
 
   
 ## 🛠️ Environment
