@@ -2,14 +2,24 @@
 
 This folder contains two Jupyter notebooks demonstrating two very different approaches to English→French translation:
 
-## 1. BERT+GPT Hybrid Transformer (D2L Pattern) – From Scratch
+## 📓 Open Notebooks
+
+### 1. BERT+GPT Hybrid Transformer (D2L Pattern) – From Scratch
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/bert_gpt_hybrid_transformer_d2l.ipynb)
+### 2. Pretrained MarianMT (Hugging Face) – Instant Translation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/en2fr_hf_marianmt_instant_translation.ipynb)
+
+## Translation Notebooks
+### 1. BERT+GPT Hybrid Transformer (D2L Pattern) – From Scratch
 **File:** `bert_gpt_hybrid_transformer_d2l.ipynb`  
 - Based on the TransformerEncoder/Decoder structure and PositionalEncoding from the D2L *Transformer* chapter
 - Reconfigured into a BERT‑style encoder and a GPT‑style decoder
 - Trained on the small D2L EN–FR dataset  
 - ⚠ Limited translation quality — goal is to understand the architecture and training process
 
-## 2. Pretrained MarianMT (Hugging Face) – Instant Translation
+### 2. Pretrained MarianMT (Hugging Face) – Instant Translation
 **File:** `en2fr_hf_marianmt_instant_translation.ipynb`  
 - Uses Hugging Face `Helsinki-NLP/opus-mt-en-fr` pretrained model
 - Translates instantly without any training
