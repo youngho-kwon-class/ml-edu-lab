@@ -5,11 +5,9 @@ This folder contains two Jupyter notebooks demonstrating two very different appr
 ## 📓 Open Notebooks
 
 ### 1. BERT+GPT Hybrid Transformer (D2L Pattern) – From Scratch
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/bert_gpt_hybrid_transformer_d2l.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/bert_gpt_hybrid_transformer_d2l.ipynb)
 ### 2. Pretrained MarianMT (Hugging Face) – Instant Translation
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/en2fr_hf_marianmt_instant_translation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/youngho-kwon-class/ml-edu-lab/blob/main/en2fr-transformer-comparison/en2fr_hf_marianmt_instant_translation.ipynb)
 
 ## Translation Notebooks
 ### 1. BERT+GPT Hybrid Transformer (D2L Pattern) – From Scratch
